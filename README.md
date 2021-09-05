@@ -42,9 +42,6 @@ func main(){
 </code>
 </pre>
     </td>
-    <td>
-<img src="https://png2.cleanpng.com/sh/ac82670613897f8ebba4ae10031e9ef8/L0KzQYm3VMI2N6dsfZH0aYP2gLBuTgRpfZ9zjeU2Znn2eH7qjPlxNZJ3jJ98d3nwfbr1h71ncaRtRadqZUG1c7W3V8g4O2E7RqgEMUK2RIaCUcUzPGg1Tqc6MkS8Q4W1kP5o/kisspng-thunnus-fish-clip-art-swimming-fish-5ae12cd0787306.6912345915247065124934.png" alt="secretary"/>
-    </td>
   </tr>
 </table>
 
