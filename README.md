@@ -33,9 +33,10 @@ import "fmt"
 
 func main(){
     for {
+    	fmt.Println("Love")
         fmt.Println("Eat")
-	      fmt.Println("Sleep")
-	      fmt.Println("Code")
+	fmt.Println("Sleep")
+	fmt.Println("Code")
     }
 }
 </p>
