@@ -15,11 +15,7 @@
     </tr>
   </table>
   <p align="center">
-   <img src="https://img.icons8.com/officel/144/000000/php-logo.png"/>
-  <img src="https://img.icons8.com/color/144/000000/wordpress.png"/>
     <img src="https://img.icons8.com/color/144/000000/javascript--v1.png"/>
-    <img src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v1.png"/>
-    <img src="https://img.icons8.com/color/144/000000/golang.png"/>
   </p>
 <table align="center">
   <tr>
