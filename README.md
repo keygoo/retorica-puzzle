@@ -33,7 +33,6 @@ func main(){
     </td>
   </tr>
 </table>
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight">    <img  alt="retorica-puzzle's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/retorica-puzzle?cardType=github&theme=tokyonight" />  </a>
 <!---
 retorica-puzzle/retorica-puzzle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
