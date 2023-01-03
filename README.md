@@ -5,7 +5,7 @@
     👋 Hi, I’m @retorica-puzzle
       </td>
       <td>
-    👀 I’m interested in PHP, JS, JAVA and GOLANG
+    👀 I’m interested in PHP, JS, GOLANG
       </td>
     </tr>
   </table>
